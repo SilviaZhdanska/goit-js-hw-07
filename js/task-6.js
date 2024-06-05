@@ -3,3 +3,9 @@ function getRandomHexColor() {
     .toString(16)
     .padStart(6, 0)}`;
 }
+
+button.addEventListener("click", function);
+function createBoxes(amount) {}
+function destroyBoxes() {
+  element.remove();
+}
